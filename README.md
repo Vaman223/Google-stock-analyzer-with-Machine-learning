@@ -86,6 +86,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🧑‍💻 Author
 
 **[Videesh Sharma]**  
-📧 sharmavideeesh
-2gmail.com
+📧 sharmavideeesh@gmail.com
 🔗 [GitHub Profile](https://github.com/Vaman223)
