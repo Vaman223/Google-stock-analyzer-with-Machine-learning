@@ -11,11 +11,11 @@ A complete end-to-end **stock prediction web application** that uses **Google’
 
 ## 🚀 Features
 
-- ✅ Visualization of  Google stock data for the past 10 years  
+- ✅ Visualization of  Google stock data for the past 10 years (2015-2025 , fixed data)
 - 📈 Performs data visualization (moving averages, closing prices , volume traded, high prices , daily return distribution , candlestick graph)  
 - 🔮 Predicts future stock prices using XGBoost  
 - 🌐 Web interface built with Flask  
-- 🛠 Built with help from Claude (frontend) and ChatGPT (backend logic & ML)
+- 🛠 Built with help from Claude (frontend)
 
 ---
 
