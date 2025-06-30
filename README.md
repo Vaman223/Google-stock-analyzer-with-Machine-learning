@@ -1,25 +1,25 @@
 
-# 📈 Google Stock Analyzer
+#  Google Stock Analyzer
 
 A complete end-to-end **stock prediction web application** that uses **Google’s historical stock data** (via Yahoo Finance) to forecast future stock prices using **XGBoost Regressor**. Built using **Flask** for the web interface, with data processing and training performed in **Google Colab**.
 
-> 🤖 Powered by: Machine Learning + Flask  
-> 📊 Model: XGBoost Regressor  
-> 📅 Data: 10 years of Google stock prices via `yfinance`
+>  Powered by: Machine Learning + Flask  
+>  Model: XGBoost Regressor  
+>  Data: 10 years of Google stock prices via `yfinance`
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ✅ Visualization of  Google stock data for the past 10 years (2015-2025 , fixed data)
-- 📈 Performs data visualization (moving averages, closing prices , volume traded, high prices , daily return distribution , candlestick graph)  
-- 🔮 Predicts future stock prices using XGBoost  
-- 🌐 Web interface built with Flask  
-- 🛠 Built with help from Claude (frontend)
+-  Visualization of  Google stock data for the past 10 years (2015-2025 , fixed data)
+-  Performs data visualization (moving averages, closing prices , volume traded, high prices , daily return distribution , candlestick graph)  
+-  Predicts future stock prices using XGBoost  
+-  Web interface built with Flask  
+-  Built with help from Claude (frontend)
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 | Component   | Tools Used                            |
 |-------------|----------------------------------------|
@@ -31,13 +31,13 @@ A complete end-to-end **stock prediction web application** that uses **Google’
 
 ---
 
-## 📦 Installation & Usage
+##  Installation & Usage
 
 ### 🔧 Requirements
 - Python 3.7+
 - pip
 
-### 💻 Steps to Run Locally
+###  Steps to Run Locally
 
 1. **Clone the Repository**
    ```bash
@@ -58,11 +58,11 @@ A complete end-to-end **stock prediction web application** that uses **Google’
    ```
 
 4. **Open in Browser**
-   Visit 👉 [http://127.0.0.1:5000/](http://127.0.0.1:5000/) to access the app.
+   Visit--[http://127.0.0.1:5000/](http://127.0.0.1:5000/) to access the app.
 
 ---
 
-## 🖼️ Screenshots Of The Web Page
+##  Screenshots Of The Web Page
 
 ![image alt](https://github.com/Vaman223/Google-stock-analyzer-with-Machine-learning/blob/main/Screenshot%202025-06-24%20220947.png?raw=true)
 ![image alt](https://github.com/Vaman223/Google-stock-analyzer-with-Machine-learning/blob/main/Screenshot%202025-06-24%20221005.png?raw=true)
@@ -70,21 +70,21 @@ A complete end-to-end **stock prediction web application** that uses **Google’
 ---
 
 
-## 📜 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🤝 Acknowledgments
+##  Acknowledgments
 
-- 🙌 Thanks to **Claude AI** for helping with the web interface
-- 📈 Stock data provided by [Yahoo Finance](https://finance.yahoo.com/)
+-  Thanks to **Claude AI** for helping with the web interface
+-  Stock data provided by [Yahoo Finance](https://finance.yahoo.com/)
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
 **[Videesh Sharma]**  
-📧 sharmavideeesh@gmail.com
-🔗 [GitHub Profile](https://github.com/Vaman223)
+ sharmavideeesh@gmail.com
+ [GitHub Profile](https://github.com/Vaman223)
