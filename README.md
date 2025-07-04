@@ -64,9 +64,9 @@ A complete end-to-end **stock prediction web application** that uses **Google’
 
 ##  Screenshots Of The Web Page
 
-![image alt](https://github.com/Vaman223/Google-stock-analyzer-with-Machine-learning/blob/main/Screenshot%202025-06-24%20220947.png?raw=true)
-![image alt](https://github.com/Vaman223/Google-stock-analyzer-with-Machine-learning/blob/main/Screenshot%202025-06-24%20221005.png?raw=true)
-![image alt](https://github.com/Vaman223/Google-stock-analyzer-with-Machine-learning/blob/main/Screenshot%202025-06-24%20221013.png?raw=true)
+![image alt](https://github.com/videshhh/Google-stock-analyzer-with-Machine-learning/blob/main/Screenshot%202025-06-24%20220947.png?raw=true)
+![image alt](https://github.com/videeshhh/Google-stock-analyzer-with-Machine-learning/blob/main/Screenshot%202025-06-24%20221005.png?raw=true)
+![image alt](https://github.com/videeshhh/Google-stock-analyzer-with-Machine-learning/blob/main/Screenshot%202025-06-24%20221013.png?raw=true)
 ---
 
 
@@ -87,4 +87,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 **[Videesh Sharma]**  
  sharmavideeesh@gmail.com
- [GitHub Profile](https://github.com/Vaman223)
+ [GitHub Profile](https://github.com/videeshhh)
